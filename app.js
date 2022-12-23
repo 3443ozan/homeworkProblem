@@ -44,7 +44,6 @@ function animat(num,y1,op1,y2,op2,drt){
             scrollTrigger:{
                 trigger:'.c',
                 start:'1500 80%',
-                end:'1600 70%',
                 markers:true
             },
             y:y2,
